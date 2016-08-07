@@ -1,4 +1,0 @@
-ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]
->>> tower1 is ["a", "b", "c", "d"], tower2 is [], tower3 is []
-What tower do you want to select a disc from, tower1, tower2 or tower3?
-  
